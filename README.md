@@ -23,4 +23,6 @@ I'm an entrepreneur and full-stack developer, my journey began in 2017 when I di
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;" />
 
+---
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chiokeisrael&show_icons=true)  
