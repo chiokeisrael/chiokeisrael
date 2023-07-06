@@ -6,12 +6,7 @@ I'm an entrepreneur and full-stack developer, my journey began in 2017 when I di
 
 
 ### Connect with me:
-[![website](https://github.com/chiokeisrael/chiokeisrael/raw/main/img/twitter-light.svg)](https://twitter.com/Israelzzzzzzz#gh-light-mode-only)
-[![website](https://github.com/chiokeisrael/chiokeisrael/raw/main/img/twitter-dark.svg)](https://twitter.com/Israelzzzzzzz#gh-dark-mode-only)&nbsp;&nbsp;
-[![website](https://github.com/chiokeisrael/chiokeisrael/raw/main/img/linkedin-light.svg)](https://linkedin.com/in/chiokeisrael#gh-light-mode-only)
-[![website](https://github.com/chiokeisrael/chiokeisrael/raw/main/img/linkedin-dark.svg)](https://linkedin.com/in/chiokeisrael#gh-dark-mode-only)&nbsp;&nbsp;
-[![website](https://github.com/chiokeisrael/chiokeisrael/raw/main/img/instagram-light.svg)](https://instagram.com/israelfba#gh-light-mode-only)
-[![website](https://github.com/chiokeisrael/chiokeisrael/raw/main/img/instagram-dark.svg)](https://instagram.com/israelfba#gh-dark-mode-only)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chiokeisrael)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chiokeisrael//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/israelfba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Israelzzzzzzz)  
 
 
 ### 🧰 Languages and Tools:
