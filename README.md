@@ -4,8 +4,7 @@
 
 I'm an entrepreneur and full-stack developer, my journey began in 2017 when I discovered my passion for both business and coding. I followed my passion by successfully building a supplement brand, and more recently, I achieved my dream of becoming a web developer after completing the Le Wagon bootcamp.
 
-<br>
-<br>
+---
 
 ### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/chiokeisrael)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/chiokeisrael//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/israelfba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/Israelzzzzzzz) 
