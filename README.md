@@ -5,8 +5,6 @@
 I'm an entrepreneur and full-stack developer, my journey began in 2017 when I discovered my passion for both business and coding. I followed my passion by successfully building a supplement brand, and more recently, I achieved my dream of becoming a web developer after completing the Le Wagon bootcamp.
 
 
-<br />
-<br />
 ### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/Israelzzzzzzz#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Israelzzzzzzz#gh-dark-mode-only)&nbsp;&nbsp;
